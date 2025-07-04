@@ -1,0 +1,18 @@
+[
+  {
+    "year": 2021,
+    "champion": "Novak Djokovic",
+    "runner_up": "Matteo Berrettini",
+    "score": "6-7(4-7), 6-4, 6-4, 6-3",
+    "sets": 4,
+    "tiebreak": true
+  },
+  {
+    "year": 2019,
+    "champion": "Novak Djokovic",
+    "runner_up": "Roger Federer",
+    "score": "7-6(7-5), 1-6, 7-6(7-4), 4-6, 13-12(7-3)",
+    "sets": 5,
+    "tiebreak": true
+  }
+]

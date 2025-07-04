@@ -25,10 +25,6 @@ Returns information about the Wimbledon final for the given year.
 
 ### 1. Clone the repository
 
-## 🧪 How to Run Locally
-
-### 1. Clone the repository
-
 ```
 git clone https://github.com/your-username/wimbledon-api.git
 cd wimbledon-api

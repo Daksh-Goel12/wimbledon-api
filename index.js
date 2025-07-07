@@ -46,6 +46,10 @@ app.get('/wimbledon', (req, res) => {
   }
 });
 
+app.get('/', (req, res) => {
+  res.send('Wimbledon API is live! Use /wimbledon?year=2021');
+});
+
 // Start server
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
